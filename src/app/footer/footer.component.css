@@ -1,0 +1,27 @@
+.footer{
+	width:100%;
+	padding:40px 0px;
+	background-color: #666;
+	text-align: center;
+}
+.footer ul{
+	margin:0;
+	padding:0;
+}
+.footer ul li{
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 30px;
+}
+.footer ul li a{
+	color:#fff;
+	text-decoration: none;
+}
+.cp-r{
+	padding:40px 0px 0px;
+	text-align: center;
+	color:#ccc;
+}
+.cp-r a{
+	color:red;
+}
